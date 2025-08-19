@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "catalog": "Address Catalog",
+    "add": "Add Address"
+  },
+  "title": "National Address Catalog",
+  "title_add": "Register National Address",
+  "title_edit": "Edit National Address",
+  "add_address": "Add Address",
+  "update_address": "Update Address",
+  "export_csv": "Export CSV",
+
+  "address": "Address",
+  "street": "Street",
+  "number": "Number",
+  "complement": "Complement",
+  "city": "City",
+  "neighborhood": "Neighborhood",
+  "state": "State",
+  "zip": "ZIP Code",
+
+  "remove": "Remove",
+  "edit": "Edit",
+  "actions": "Actions",
+  "no_addresses": "No addresses registered",
+  "address_exists": "This address is already registered.",
+
+  "validation": {
+    "zip_required": "ZIP Code is required",
+    "zip_invalid": "Invalid ZIP Code",
+    "street_required": "Street is required",
+    "number_required": "Number is required",
+    "neighborhood_required": "Neighborhood is required",
+    "city_required": "City is required",
+    "state_required": "State is required"
+  }
+}

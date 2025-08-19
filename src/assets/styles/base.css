@@ -1,0 +1,19 @@
+* {
+  /* padding: 0px; */
+  /* margin: 0px; */
+  box-sizing: border-box;
+  font-weight: normal;
+}
+
+body {
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}

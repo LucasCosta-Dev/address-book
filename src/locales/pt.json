@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "catalog": "Catálogo de Endereços",
+    "add": "Adicionar Endereço"
+  },
+  "title": "Catálogo de Endereços Nacionais",
+  "title_add": "Cadastro de Endereços Nacionais",
+  "title_edit": "Edição de Endereços Nacionais",
+  "add_address": "Adicionar Endereço",
+  "update_address": "Atualizar Endereço",
+  "export_csv": "Exportar CSV",
+
+  "address": "Endereço",
+  "street": "Logradouro",
+  "number": "Número",
+  "complement": "Complemento",
+  "neighborhood": "Bairro",
+  "city": "Cidade",
+  "state": "Estado",
+  "zip": "CEP",
+
+  "remove": "Remover",
+  "edit": "Editar",
+  "actions": "Ações",
+  "no_addresses": "Nenhum endereço cadastrado",
+  "address_exists": "Este endereço já está cadastrado.",
+
+  "validation": {
+    "zip_required": "O CEP é obrigatório",
+    "zip_invalid": "CEP inválido",
+    "street_required": "O logradouro é obrigatória",
+    "number_required": "O número é obrigatório",
+    "neighborhood_required": "O bairro é obrigatória",
+    "city_required": "A cidade é obrigatória",
+    "state_required": "O estado é obrigatório"
+  }
+}

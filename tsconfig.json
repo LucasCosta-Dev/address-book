@@ -1,0 +1,17 @@
+{
+  "extends": "./tsconfig.app.json",
+  "compilerOptions": {
+    "types": ["vitest/globals", "@testing-library/jest-dom"]
+  },
+  "include": [
+    "tests/**/*.ts",
+    "tests/**/*.spec.ts",
+    "src/**/*.ts",
+    "src/**/*.vue",
+    "test/composables/useAddressFormatter.spec.ts",
+    "test/composables/useAddressForm.spec.ts",
+    "test/composables/useCepAutocomplete.spec.ts",
+    "test/schemas/addressSchema.spec.ts",
+    "test/services/fetchAddressByZip.spec.ts"
+, "test/stores/addressStore.spec.ts", "test/views/address/addressForm.spetest/views/address/addressList.spec.ts.spec.ts"  ]
+}
